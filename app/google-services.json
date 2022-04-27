@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "949864652669",
+    "project_id": "chatapp-f4182",
+    "storage_bucket": "chatapp-f4182.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949864652669:android:7320089d704dfbc02bf614",
+        "android_client_info": {
+          "package_name": "com.shreya.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949864652669-d3qp91mktr9230ui27e4ndop6get4n6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5iiUhc1sWRi4FrsG2HyY6SmpfLCfLKys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949864652669-d3qp91mktr9230ui27e4ndop6get4n6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
